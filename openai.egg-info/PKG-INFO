@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: openai
+Version: 0.1.0
+Summary: Code for different solutions to openai gym
+Home-page: UNKNOWN
+Author: Andrew Patterson
+Author-email: andrew.patterson@asos.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
