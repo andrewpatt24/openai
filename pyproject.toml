@@ -13,6 +13,8 @@ jupyter = "1.0.0"
 matplotlib = "*"
 keras = "*"
 tqdm = "*"
+pytest = "*"
+pandas = "*"
 
 [build-system]
 requires = ["poetry>=0.12"]
